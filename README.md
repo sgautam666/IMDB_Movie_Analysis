@@ -43,7 +43,8 @@ See the full analysis in the [Jupyter Notebook](./movie_analysis.ipynb) or revie
 ```
 ├── data
 ├── images
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── notebook_versions
+├── Movie_analysis.ipynb
+├── Movie_market_analysis.pdf
+└── README.md
 ```
